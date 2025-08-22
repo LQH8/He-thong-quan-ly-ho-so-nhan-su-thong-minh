@@ -1,8 +1,6 @@
 # 🌐 Hệ thống quản lý hồ sơ hợp đồng nhân sự thông minh
 
-<p align="center">
-  <img src="logodnu.png" alt="Logo Đại Nam" width="600"/>
-</p>
+<img width="1616" height="558" alt="image" src="https://github.com/user-attachments/assets/3df79942-afd0-4f7b-b899-b78e4c882d4b" />
 
 ---
 
