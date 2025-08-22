@@ -33,3 +33,21 @@
 ---
 
 ## 📂 Cấu trúc thư mục
+
+---
+
+## 🚀 Cách chạy dự án
+
+### 🔹 1. Chạy Frontend (Next.js)
+```bash
+cd app
+npm install
+npm run dev
+cd python-backend
+python -m venv .venv
+source .venv/bin/activate   # (Linux/Mac)
+.venv\Scripts\activate      # (Windows)
+
+pip install -r requirements.txt
+uvicorn main:app --reload   # Nếu dùng FastAPI
+# hoặc: flask run           # Nếu dùng Flask
