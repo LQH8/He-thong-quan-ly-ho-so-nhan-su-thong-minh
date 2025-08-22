@@ -1,24 +1,36 @@
-# 📑 Số hóa và lưu trữ hợp đồng cho phòng pháp chế
+# 🌐 Hệ thống quản lý hồ sơ hợp đồng nhân sự thông minh
 
 <p align="center">
-  <img src="logo.jpg" alt="Logo DNU" width="500"/>
+  <img src="logodnu.png" alt="Logo Đại Nam" width="600"/>
 </p>
 
 ---
 
 ## 🏫 Thông tin dự án
+- **Đề tài:** Hệ thống quản lý hồ sơ hợp đồng nhân sự thông minh  
 - **Đơn vị thực hiện:** Khoa Công Nghệ Thông Tin - Trường Đại học Đại Nam  
 - **Phòng Lab:** AIoT Lab  
-- **Tên hệ thống:** Hệ Thống Quản Lý Hợp Đồng (ChinhSachSo)  
-- **Mục tiêu:** Số hóa và lưu trữ hợp đồng, hỗ trợ tra cứu, tìm kiếm và quản lý hồ sơ nhanh chóng cho phòng pháp chế.  
+- **Mục tiêu:** 
+  - Số hóa và quản lý hợp đồng nhân sự.  
+  - Lưu trữ, tra cứu, tìm kiếm thông minh.  
+  - Tích hợp OCR để nhận diện văn bản từ hợp đồng scan.  
+  - Ứng dụng Web thân thiện, dễ triển khai.  
 
 ---
 
 ## ⚙️ Công nghệ sử dụng
-- **Ngôn ngữ:** C# (.NET 6 / ASP.NET Core MVC)  
-- **Cơ sở dữ liệu:** SQL Server (Entity Framework Core)  
-- **OCR:** Tesseract OCR (`tessdata`)  
-- **Frontend:** Razor Pages (Views)  
+### 🔹 Frontend
+- **Next.js 13+ (React framework)**  
+- **Tailwind CSS**  
+- **PostCSS**  
+
+### 🔹 Backend
+- **Python 3.10+**  
+- **FastAPI / Flask** (tùy framework bạn dùng)  
+- **Tesseract OCR** (xử lý ảnh văn bản)  
+
+### 🔹 Database
+- **SQLite / PostgreSQL / MySQL** (tùy cấu hình bạn chọn)  
 
 ---
 
