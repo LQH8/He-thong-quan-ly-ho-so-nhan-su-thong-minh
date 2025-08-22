@@ -32,10 +32,6 @@
 
 ---
 
-## 📂 Cấu trúc thư mục
-
----
-
 ## 🚀 Cách chạy dự án
 
 ### 🔹 1. Chạy Frontend (Next.js)
